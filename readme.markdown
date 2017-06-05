@@ -1,7 +1,6 @@
 Dazzle
 ======
-Created by Leonhard Lichtschlag (leonhard@lichtschlag.net) on 9/Feb/12.  
-Copyright (c) 2012 Leonhard Lichtschlag. All rights reserved.
+
 
 ---
 
